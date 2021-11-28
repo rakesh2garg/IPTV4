@@ -1,10 +1,10 @@
 #EXTM3U
+#EXTINF:-1 tvg-logo="https://qqcdnpictest.mxplay.com/pic/7059.SailLeela.in/en/1x1/208x208/test_pic1590845528353.jpg" group-title="Devotional",Sai leela
+https://m-c03-j2apps.s.llnwi.net/hls/7059.SailLeela.in.m3u8
 #EXTINF:-1 tvg-id="ShirdiLive.in" tvg-name="Shirdi Live" tvg-logo="" group-title="Entertainment",Shirdi Live 
 https://cam.pc.cdn.bitgravity.com/cam/live/feed006/Saibaba/temple/feed/playlist.m3u8?e=1636901176&h=db96c668a351ddf45e6b106c3aea605d
 #EXTINF:-1 tvg-name="Sony Hd" tvg-logo="https://d3fxehhzqt25no.cloudfront.net/images/SET-HD-Logo.png" group-title="Entertainment",Sony Hd
 https://pubads.g.doubleclick.net/ssai/event/HgaB-u6rSpGx3mo4Xu3sLw/master.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Star Utsav UK IN" tvg-logo="" group-title="Entertainment",ZEE TV HD 
-http://208.115.215.42/ZEE_Tv_HD_02/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-name="Sony Sab" tvg-logo="https://origin-staticv2.sonyliv.com/masthead_logo/4867316278001.png" group-title="Entertainment",Sony Sab
 https://pubads.g.doubleclick.net/ssai/event/UI4QFJ_uRk6aLxIcADqa_A/master.m3u8
 #EXTINF:-1 tvg-name="Sony pal" tvg-logo="https://origin-staticv2.sonyliv.com/masthead_logo/4867313347001.png" group-title="Entertainment",Sony pal
@@ -13,14 +13,8 @@ https://pubads.g.doubleclick.net/ssai/event/rPzF28qORbKZkhci_04fdQ/master.m3u8
 https://pubads.g.doubleclick.net/ssai/event/40H5HfwWTZadFGYkBTqagg/master.m3u8
 #EXTINF:-1 tvg-name="Sony Wah" tvg-logo="https://origin-staticv2.sonyliv.com/masthead_logo/5613700600001.png" group-title="Entertainment",Sony Wah
 https://pubads.g.doubleclick.net/ssai/event/H_ZvXWqHRGKpHcdDE5RcDA/master.m3u8
-#EXTINF:-1 tvg-logo="https://qqcdnpictest.mxplay.com/pic/0449.ManoranjanTV.in/en/1x1/208x208/test_pic1533899352918.jpg" group-title="Entertainment",Manoranjan TV
-https://m-c048-j2apps.s.llnwi.net/hls/0449.ManoranjanTV.in.m3u8
 #EXTINF:-1 tvg-logo="https://qqcdnpictest.mxplay.com/pic/0353.Firangi.in/en/1x1/208x208/test_pic1535537649542.jpg" group-title="Entertainment",Firangi
 https://m-c15-j2apps.s.llnwi.net/hls/0353.Firangi.in.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="&pictures HD" tvg-logo="http://195.154.221.171/picons/andpictureshd.png" group-title="Movies",&pictures HD 
-https://f8e7y4c6.ssl.hwcdn.net/andpicssd/playlist.m3u8
-#EXTINF:-1 tvg-name="Zee Action" tvg-logo="https://assets.botallen.live/images/t/TIckHTwWsy.png" group-title="Movies",Zee Action
-https://y5w8j4a9.ssl.hwcdn.net/action/tracks-v1a1/index.m3u8
 #EXTINF:-1 tvg-logo="https://qqcdnpictest.mxplay.com/pic/5045.BFlixMovies.in/en/1x1/208x208/test_pic1536151119917.jpg" group-title="Movies",BFlix Movies
 https://m-c036-j2apps.s.llnwi.net/hls/5045.BFlixMovies.in.m3u8
 #EXTINF:0 tvg-country="IN" tvg-logo="" group-title="Movies",MAHA MOVIE
@@ -35,8 +29,6 @@ https://m-c03-j2apps.s.llnwi.net/hls/6521.Movieplus.in.m3u8
 https://m-c01-j2apps.s.llnwi.net/hls/6523.BOXCinema.in.m3u8
 #EXTINF:-1 tvg-logo="https://qqcdnpictest.mxplay.com/pic/8001.Bollywood.in/en/1x1/208x208/test_pic1574770761731.jpg" group-title="Movies",Bollywood
 https://m-c09-j2apps.s.llnwi.net/hls/8001.Bollywood.in.m3u8
-#EXTINF:-1 tvg-id="AndPictures.in" tvg-name="&Pictures" tvg-country="SAS" tvg-language="" tvg-logo="https://static.epg.best/in/AndPictures.in.png" group-title="Movies",&Pictures
-https://f8e7y4c6.ssl.hwcdn.net/andpicssd/playlist.m3u8
 #EXTINF:-1 tvg-name="Aaj Tak Hd" tvg-logo="https://smedia2.intoday.in/aajtak/resources/theme_v2/common/images/livetv-share_hd.jpg" group-title="News",Aaj Tak Hd
 https://aajtakhdlive-amd.akamaized.net/hls/live/2014415/aajtakhd/aajtakhdlive/aajtakhd_5/chunklist.m3u8
 #EXTINF:-1 tvg-name="Abp News" tvg-logo="https://content.vidgyor.com/live/abp_hindi.jpg" group-title="News",Abp News
@@ -49,10 +41,6 @@ https://news18india-lh.akamaihd.net/i/news18india_1@174951/index_4_av-p.m3u8
 https://live-indiatvnews.akamaized.net/indiatv-origin/liveabr/indiatv-origin/live2/chunks.m3u8
 #EXTINF:-1 tvg-logo="https://qqcdnpictest.mxplay.com/pic/0380.NewsX.in/en/1x1/208x208/test_pic1552315785886.jpg" group-title="News",NewsX
 https://m-c16-j2apps.s.llnwi.net/hls/0380.NewsX.in.m3u8
-#EXTINF:-1 tvg-name="Republic TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7a/Republic_TV.jpg/200px-Republic_TV.jpg" group-title="News",Republic TV
-https://weblive.republicworld.com/liveorigin/republictv/master_hdlive_360p.m3u8
-#EXTINF:-1 tvg-name="Republic Bharat" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/6a/Republic_Bharat_Logo.jpg" group-title="News",Republic Bharat
-https://republic.pc.cdn.bitgravity.com/live/bharat_hls/masterlive_360p.m3u8
 #EXTINF:-1 tvg-name="News 24" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/66/News24_Logo.jpg" group-title="News",News 24
 https://vidcdn.vidgyor.com/news24-origin/liveabr/news24-origin/live1/chunks.m3u8
 #EXTINF:-1 tvg-name="Tv9 Bharatvarsh" tvg-logo="https://akamaividz2.zee5.com/image/upload/w_1170,h_658,c_scale,f_auto,q_auto/resources/0-9-251/list/09251tv9bharatvarsh.jpg" group-title="News",Tv9 Bharatvarsh
@@ -79,22 +67,10 @@ https://m-c02-j2apps.s.loris.llnwd.net/hls/5208.HindiKhabar.in.m3u8
 https://m-c16-j2apps.s.llnwi.net/hls/3240.NewsIndia24X7.in.m3u8
 #EXTINF:-1 tvg-logo="https://qqcdnpictest.mxplay.com/pic/0131.TotalTV.in/en/1x1/208x208/test_pic1544081844210.jpg" group-title="News",Total TV
 https://m-c049-j2apps.s.llnwi.net/hls/0131.TotalTV.in.m3u8
-#EXTINF:-1 tvg-logo="https://qqcdnpictest.mxplay.com/pic/7059.SailLeela.in/en/1x1/208x208/test_pic1590845528353.jpg" group-title="Devotional",Sai leela
-https://m-c03-j2apps.s.llnwi.net/hls/7059.SailLeela.in.m3u8
 #EXTINF:-1 tvg-logo="https://qqcdnpictest.mxplay.com/pic/7097.PrimeNews.in/en/1x1/208x208/test_pic1601186308774.jpg" group-title="News",Prime News
 https://m-c010-j2apps.s.llnwi.net/hls/7097.PrimeNews.in.m3u8
-#EXTINF:-1 tvg-name="Zee Cafe Hd" tvg-logo="https://zeelwebsite.s3.amazonaws.com/zeetele/wp-content/uploads/2017/10/zee_cafe_hd.png" group-title="Entertainment",Zee Cafe Hd
-https://y5w8j4a9.ssl.hwcdn.net/zeecafehd/tracks-v1a1/index.m3u8
-#EXTINF:-1 tvg-name="& Privé HD" tvg-logo="https://upload.wikimedia.org/wikipedia/en/4/4f/Logo_of_%26_Priv%C3%A9_HD.jpg" group-title="Movies",& Privé HD
-https://y5w8j4a9.ssl.hwcdn.net/andprivehd/tracks-v1a1/index.m3u8
-#EXTINF:-1 tvg-name="Big Magic" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/66/Big_Magic.jpg" group-title="Entertainment",Big Magic
-https://y5w8j4a9.ssl.hwcdn.net/bigmagic/index.m3u8
-#EXTINF:-1 tvg-name="Zing" tvg-logo="https://akamaividz2.zee5.com/image/upload/w_1170,h_658,c_scale/resources/0-9-zing/list/09zingzing.jpg" group-title="Music",Zing
-https://y5w8j4a9.ssl.hwcdn.net/zing/index.m3u8
 #EXTINF:-1 tvg-name="CNBC Awaaz" tvg-logo="https://i.ytimg.com/vi/7YXq3v2aAAI/maxresdefault.jpg" group-title="News",CNBC Awaaz
 https://cnbcawaaz-lh.akamaihd.net/i/cnbcawaaz_1@174872/index_3_av-p.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="B4U Music" tvg-logo="" group-title="Entertainment",B4U Music
-http://portal.geniptv.com:8080/greenpoison8/GZprWONABH/2866
 #EXTINF:-1 tvg-name="Sony Ten 1 Hd" tvg-logo="https://origin-staticv2.sonyliv.com/masthead_logo/SonyTEN1HD_Masthead_Logo.png" group-title="Sports",Sony Ten 1 Hd
 https://pubads.g.doubleclick.net/ssai/event/yeYP86THQ4yl7US8Zx5eug/master.m3u8
 #EXTINF:-1 tvg-name="Sony Ten 2 Hd" tvg-logo="https://origin-staticv2.sonyliv.com/masthead_logo/SonyTEN2HD_Masthead_Logo.png" group-title="Sports",Sony Ten 2 Hd
