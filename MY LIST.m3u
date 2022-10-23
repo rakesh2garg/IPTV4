@@ -1,8 +1,4 @@
 #EXTM3U
-#EXTINF:-1 tvg-logo="https://qqcdnpictest.mxplay.com/pic/7059.SailLeela.in/en/1x1/208x208/test_pic1590845528353.jpg" group-title="Devotional",Sai leela
-https://m-c03-j2apps.s.llnwi.net/hls/7059.SailLeela.in.m3u8
-#EXTINF:-1 tvg-id="ShirdiLive.in" tvg-name="Shirdi Live" tvg-logo="" group-title="Entertainment",Shirdi Live 
-https://cam.pc.cdn.bitgravity.com/cam/live/feed006/Saibaba/temple/feed/playlist.m3u8?e=1636901176&h=db96c668a351ddf45e6b106c3aea605d
 #EXTINF:-1 tvg-name="Sony Hd" tvg-logo="https://d3fxehhzqt25no.cloudfront.net/images/SET-HD-Logo.png" group-title="Entertainment",Sony Hd
 https://pubads.g.doubleclick.net/ssai/event/HgaB-u6rSpGx3mo4Xu3sLw/master.m3u8
 #EXTINF:-1 tvg-name="Sony Sab" tvg-logo="https://origin-staticv2.sonyliv.com/masthead_logo/4867316278001.png" group-title="Entertainment",Sony Sab
@@ -13,24 +9,15 @@ https://pubads.g.doubleclick.net/ssai/event/rPzF28qORbKZkhci_04fdQ/master.m3u8
 https://pubads.g.doubleclick.net/ssai/event/40H5HfwWTZadFGYkBTqagg/master.m3u8
 #EXTINF:-1 tvg-name="Sony Wah" tvg-logo="https://origin-staticv2.sonyliv.com/masthead_logo/5613700600001.png" group-title="Entertainment",Sony Wah
 https://pubads.g.doubleclick.net/ssai/event/H_ZvXWqHRGKpHcdDE5RcDA/master.m3u8
-#EXTINF:-1 tvg-logo="https://qqcdnpictest.mxplay.com/pic/0353.Firangi.in/en/1x1/208x208/test_pic1535537649542.jpg" group-title="Entertainment",Firangi
-https://m-c15-j2apps.s.llnwi.net/hls/0353.Firangi.in.m3u8
-#EXTINF:-1 tvg-logo="https://qqcdnpictest.mxplay.com/pic/5045.BFlixMovies.in/en/1x1/208x208/test_pic1536151119917.jpg" group-title="Movies",BFlix Movies
-https://m-c036-j2apps.s.llnwi.net/hls/5045.BFlixMovies.in.m3u8
-#EXTINF:0 tvg-country="IN" tvg-logo="" group-title="Movies",MAHA MOVIE
-https://m-c036-j2apps.s.llnwi.net/hls/2820.MahaMovie.in.m3u8?checkedby:iptvcat.com
-#EXTINF:-1 tvg-logo="https://qqcdnpictest.mxplay.com/pic/2172.ManoranjanMovies.in/en/1x1/208x208/test_pic1535537678437.jpg" group-title="Movies",Manoranjan Movies
-https://m-c036-j2apps.s.llnwi.net/hls/2172.ManoranjanMovies.in.m3u8
-#EXTINF:-1 tvg-logo="https://qqcdnpictest.mxplay.com/pic/0079.Filmy.in/en/1x1/208x208/test_pic1535463753952.jpg" group-title="Movies",Filmy
-https://m-c15-j2apps.s.llnwi.net/hls/0079.Filmy.in.m3u8
-#EXTINF:-1 tvg-logo="https://qqcdnpictest.mxplay.com/pic/6521.Movieplus.in/en/1x1/208x208/test_pic1559821113768.jpg" group-title="Movies",Movie Plus
-https://m-c03-j2apps.s.llnwi.net/hls/6521.Movieplus.in.m3u8
-#EXTINF:-1 tvg-logo="https://qqcdnpictest.mxplay.com/pic/6523.BOXCinema.in/en/1x1/208x208/test_pic1561284881697.jpg" group-title="Movies",BOX Cinema
-https://m-c01-j2apps.s.llnwi.net/hls/6523.BOXCinema.in.m3u8
-#EXTINF:-1 tvg-logo="https://qqcdnpictest.mxplay.com/pic/8001.Bollywood.in/en/1x1/208x208/test_pic1574770761731.jpg" group-title="Movies",Bollywood
-https://m-c09-j2apps.s.llnwi.net/hls/8001.Bollywood.in.m3u8
-#EXTINF:-1 tvg-name="Aaj Tak Hd" tvg-logo="https://smedia2.intoday.in/aajtak/resources/theme_v2/common/images/livetv-share_hd.jpg" group-title="News",Aaj Tak Hd
-https://aajtakhdlive-amd.akamaized.net/hls/live/2014415/aajtakhd/aajtakhdlive/aajtakhd_5/chunklist.m3u8
+#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/919843853120577536/-zc_BK2V_400x400.jpg" group-title="HINDI"" , ZEE ANMOL HD
+http://208.115.215.42/ZEE_Anm0l_HD/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-logo="https://indeltv.in/wp-content/uploads/2019/01/zee-bollywood.png" group-title="HINDI"" , ZEE BOLLYWOOD HD
+http://208.115.215.42/ZEE_Bollywood_HD/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-logo="https://img2.pngio.com/star-plus-logopedia-fandom-star-plus-png-580_580.png" group-title="HINDI"" , UTSAV PLUS HD http://208.115.215.42/Utsav_Plus_HD/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-logo="https://mytuner.global.ssl.fastly.net/media/tvos_radios/eqxcckunjkhu.png" group-title="HINDI"",ZEE NEWS
+https://d233nwklwv8p4.cloudfront.net/out/v1/860cb318d23a4c64b58c9d625281170c/index_3.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/8UG9dAT.png" group-title="HINDI",Aaj Tak
+http://lmil.live-s.cdn.bitgravity.com/cdn-live/_definst_/lmil/live/aajtak_app.smil/playlist.m3u8
 #EXTINF:-1 tvg-name="Abp News" tvg-logo="https://content.vidgyor.com/live/abp_hindi.jpg" group-title="News",Abp News
 https://m-c02-j2apps.s.loris.llnwd.net/hls/7014.ABPNews.in_480p/index.m3u8
 #EXTINF:-1 tvg-name="Ndtv India" tvg-logo="https://upload.wikimedia.org/wikipedia/en/e/ed/NDTV_India.png" group-title="News",Ndtv India
