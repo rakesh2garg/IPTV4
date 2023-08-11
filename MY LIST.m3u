@@ -1,6 +1,8 @@
 #EXTM3U
 #EXTINF:-1 tvg-name="Sony Hd" tvg-logo="https://d3fxehhzqt25no.cloudfront.net/images/SET-HD-Logo.png" group-title="Entertainment",Sony Hd
 https://pubads.g.doubleclick.net/ssai/event/HgaB-u6rSpGx3mo4Xu3sLw/master.m3u8
+#EXTINF:-1 tvg-id="Colors.in" tvg-logo="https://i.imgur.com/M8uCJ0D.png" group-title="Entertainment",Colors HD 
+https://prod-sports-north-gm.jiocinema.com/bpk-tv/Colors_HD_voot_MOB/Fallback/index.m3u8
 #EXTINF:-1 tvg-name="Sony Sab" tvg-logo="https://origin-staticv2.sonyliv.com/masthead_logo/4867316278001.png" group-title="Entertainment",Sony Sab
 https://pubads.g.doubleclick.net/ssai/event/UI4QFJ_uRk6aLxIcADqa_A/master.m3u8
 #EXTINF:-1 tvg-name="Sony pal" tvg-logo="https://origin-staticv2.sonyliv.com/masthead_logo/4867313347001.png" group-title="Entertainment",Sony pal
@@ -11,8 +13,8 @@ https://pubads.g.doubleclick.net/ssai/event/40H5HfwWTZadFGYkBTqagg/master.m3u8
 https://pubads.g.doubleclick.net/ssai/event/H_ZvXWqHRGKpHcdDE5RcDA/master.m3u8
 #EXTINF:-1, Sony Kal
 https://90f1f5904d4043d78fa97be33e8304b4.mediatailor.us-east-1.amazonaws.com/v1/master/04fd913bb278d8775298c26fdca9d9841f37601f/Plex_SonyKAL/playlist.m3u8
-#EXTINF:-1 tvg-id="Colors.in" tvg-logo="https://i.imgur.com/M8uCJ0D.png" group-title="Entertainment",Colors HD 
-https://prod-sports-north-gm.jiocinema.com/bpk-tv/Colors_HD_voot_MOB/Fallback/index.m3u8
+#EXTINF:-1 tvg-id="ZEESALAM" tvg-logo="https://imgur.com/a/d0OxTuf" group-title="Entertainment",ZEE SALAM
+https://livetv-channels.b-cdn.net/8075/chunklist0.m3u8
 #EXTINF:-1 tvg-id="ColorsCineplexBollywood.in" tvg-logo="https://i.imgur.com/EbHSQAJ.png" group-title="Movies",Colors Cineplex Bollywood (1080p)
 https://prod-sports-north-gm.jiocinema.com/bpk-tv/Colors_Cineplex_Bollywood_voot_MOB/Fallback/index.m3u8
 #EXTINF:-1 tvg-id="ColorsCineplexSuperhits.in" tvg-logo="https://i.ibb.co/KbXhstz/Screenshot-20230610-130415.jpg" group-title="Movies",Colors Cineplex Superhits (1080p)
