@@ -15,6 +15,8 @@ https://pubads.g.doubleclick.net/ssai/event/H_ZvXWqHRGKpHcdDE5RcDA/master.m3u8
 https://90f1f5904d4043d78fa97be33e8304b4.mediatailor.us-east-1.amazonaws.com/v1/master/04fd913bb278d8775298c26fdca9d9841f37601f/Plex_SonyKAL/playlist.m3u8
 #EXTINF:-1 tvg-id="ZEESALAM" tvg-logo="https://i.imgur.com/BYbBxPD.jpg" group-title="Entertainment",ZEE SALAM
 https://livetv-channels.b-cdn.net/8075/chunklist0.m3u8
+#EXTINF:-1 tvg-name="EZ MALL" tvg-logo="https://i.imgur.com/OyU0qtx.png?1" group-tiltel="Markeet",EZ MALL
+https://livetv-channels.b-cdn.net/8074/chunklist0.m3u8
 #EXTINF:-1 tvg-id="ColorsCineplexBollywood.in" tvg-logo="https://i.imgur.com/EbHSQAJ.png" group-title="Movies",Colors Cineplex Bollywood 
 https://prod-sports-north-gm.jiocinema.com/bpk-tv/Colors_Cineplex_Bollywood_voot_MOB/Fallback/index.m3u8
 #EXTINF:-1 tvg-id="ColorsCineplexSuperhits.in" tvg-logo="https://i.ibb.co/KbXhstz/Screenshot-20230610-130415.jpg" group-title="Movies",Colors Cineplex Superhits 
@@ -27,6 +29,8 @@ https://prod-sports-north-gm.jiocinema.com/bpk-tv/Colors_Rishtey_voot_MOB/Fallba
 https://dai.google.com/linear/hls/event/UcjHNJmCQ1WRlGKlZm73QA/master.m3u8
 #EXTINF:-1 tvg-name="Sony MAX2" tvg-logo="https://i.imgur.com/lRJNJwX.jpg" group-title="Entertainment",SONY MAX 2
 https://dai.google.com/linear/hls/event/MdQ5Zy-PSraOccXu8jflCg/master.m3u8
+#EXTINF:-1 tvg-name="ANJAN" tvg-logo="https://i.imgur.com/3Sgr5t6.png?1" group-title="Entertainment",ANJAN
+https://livetv-channels.b-cdn.net/8034/chunklist0.m3u8
 #EXTINF:-1 tvg-name="Sony PIX HD" tvg-logo="https://i.imgur.com/hyMRArK.jpg" group-title="Entertainment",SONY PIX HD
 https://dai.google.com/linear/hls/event/x7rXWd2ERZ2tvyQWPmO1HA/master.m3u8
 #EXTINF:-1 tvg-name="Sony BBC Earth HD" tvg-logo="https://i.imgur.com/KhtEan8.png" group-title="Entertainment",SONY BBC EARTH HD
@@ -77,6 +81,26 @@ https://samacharplus.livebox.co.in/samacharplushls/live.m3u8
 https://vidcdn.vidgyor.com/news24-origin/liveabr/playlist.m3u8
 #EXTINF:-1 tvg-name="NDTV 24x7" tvg-logo="https://cdn.ndtv.com/static/images/ndtv_default_image_livetv.png" group-title="News",NDTV 24x7
 https://ndtv24x7elemarchana.akamaized.net/hls/live/2003678/ndtv24x7/masterp_480p@3.m3u8
+#EXTINF:-1 tvg-name="GULISTAN NEWS" tvg-logo="https://i.imgur.com/KMHb0YA.png?1" group-title="News",GULISTAN NEWS
+https://livetv-channels.b-cdn.net/8065/chunklist0.m3u8
+#EXTINF:-1 tvg-name="JANTA TV" tvg-logo="https://i.imgur.com/3RCmTlw.png?1" group-title="News",JANTA TV
+https://livetv-channels.b-cdn.net/8060/chunklist0.m3u8
+#EXTINF:-1 tvg-name="NEWS INDIA 1" tvg-logo="https://i.imgur.com/Uafta1i.png?1" group-title="News",NEWS INDIA 1 
+https://livetv-channels.b-cdn.net/8051/chunklist0.m3u8
+#EXTINF:-1 tvg-name="PRIME NEWS" tvg-logo="https://i.imgur.com/6Otylmb.png?1" group-title="News",PRIME TIME
+https://livetv-channels.b-cdn.net/8050/chunklist0.m3u8
+#EXTINF:-1 tvg-name="K NEWS" tvg-logo="https://i.imgur.com/WkUV5Ur.png?1" group-title="News",K NEWS
+https://livetv-channels.b-cdn.net/8003/chunklist0.m3u8
+#EXTINF:-1 tvg-name="NEWS INDIA" tvg-logo="https://i.imgur.com/GAmeH6t.png?1" group-title="News",NEWS INDIA
+https://livetv-channels.b-cdn.net/8037/chunklist0.m3u8
+#EXTINF:-1 tvg-name="JANTANTAR TV" tvg-logo="https://i.imgur.com/CApwUVC.png?1" group-title="News",JANTANTAR TV
+https://livetv-channels.b-cdn.net/8005/chunklist0.m3u8
+#EXTINF:-1 tvg-name="TV100" tvg-logo="https://i.imgur.com/62G7v6K.png?1" group-title="News",TV100
+https://livetv-channels.b-cdn.net/8007/chunklist0.m3u8
+#EXTINF:-1 tvg-name="SUDARSHAN NEWS" tvg-logo="https://i.imgur.com/W7Rp2kK.png?1" group-title="News",SUDARSHAN NEWS
+https://livetv-channels.b-cdn.net/8016/chunklist0.m3u8
+#EXTINF:-1 tvg-name="TV9 BHARATVARSH" tvg-logo="https://i.imgur.com/KpJLhtb.png?1" group-title="News",TV9 BHARATVARSH
+https://livetv-channels.b-cdn.net/8023/chunklist0.m3u8
 #EXTINF:-1 tvg-name="NDTV Profit" tvg-logo="https://www.ndtv.com/business/content/images/profit_logo2017.png" group-title="News",NDTV Profit
 https://ndtv.pc.cdn.bitgravity.com/ndtv/live/amlst:ndtv_profit_,48,128,256,382,512,.smil/chunklist_b512000.m3u8
 #EXTINF:-1 tvg-name="AASTHA" tvg-logo="https://i.imgur.com/rk4EwEx.png?" group-title="Devotional",AASTHA
