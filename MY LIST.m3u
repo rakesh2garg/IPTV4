@@ -23,14 +23,28 @@ https://prod-sports-north-gm.jiocinema.com/bpk-tv/Colors_Cineplex_Bollywood_voot
 https://prod-sports-north-gm.jiocinema.com/bpk-tv/Rishtey_Cineplex_voot_MOB/Fallback/index.m3u8
 #EXTINF:-1 tvg-id="ColorsInfinity.in" tvg-logo="https://i.imgur.com/a5uES9j.png" group-title="Entertainment",Colors Infinity 
 https://prod-sports-north-gm.jiocinema.com/bpk-tv/Colors_Infinity_HD_voot_MOB/Fallback/index.m3u8
-#EXTINF:-1 tvg-id="ColorsRishteyAsia.in" tvg-logo="https://i.imgur.com/YKWfMZo.png" group-title="Entertainment",Colors Rishtey Asia 
+#EXTINF:-1 tvg-id="ColorsRishteyAsia.in" tvg-logo="https://i.imgur.com/YKWfMZo.png" group-title="Entertainment",Colors Rishtey  
 https://prod-sports-north-gm.jiocinema.com/bpk-tv/Colors_Rishtey_voot_MOB/Fallback/index.m3u8
+#EXTINF:-1 tvg-id="ILOVE" tvg-logo="https://i.imgur.com/4rj2JIp.png?1" group title="Entertainment",ILOVE
+https://livetv-channels.b-cdn.net/8047/chunklist0.m3u8
 #EXTINF:-1 tvg-name="Sony MAX HD" tvg-logo="https://i.imgur.com/rBkGzhl.png" group-title="Entertainment",SONY MAX HD
 https://dai.google.com/linear/hls/event/UcjHNJmCQ1WRlGKlZm73QA/master.m3u8
 #EXTINF:-1 tvg-name="Sony MAX2" tvg-logo="https://i.imgur.com/lRJNJwX.jpg" group-title="Entertainment",SONY MAX 2
 https://dai.google.com/linear/hls/event/MdQ5Zy-PSraOccXu8jflCg/master.m3u8
+#EXTINF:-1 tvg-name="MAHA MOVIE" tvg-logo="https://i.imgur.com/2NPUfsu.png?1" group-title="Movies",MAHA MOVIE
+https://livetv-channels.b-cdn.net/8025/chunklist0.m3u8
+#EXTINF:-1 tvg-name="MANORANJAN MOVIE" tvg-logo="https://i.imgur.com/iVEP6o4.png?1" group-title="Movies",MANORANJAN MOVIE
+https://livetv-channels.b-cdn.net/8083/chunklist0.m3u8
+#EXTINF:-1 tvg-name="OSCAR MOVIE BHOJPURI" tvg-logo="https://i.imgur.com/EPl3xCu.png?1" group-title="Movies" OSCAR MOVIE BHOJPURI
+https://livetv-channels.b-cdn.net/8038/chunklist0.m3u8
 #EXTINF:-1 tvg-name="ANJAN" tvg-logo="https://i.imgur.com/3Sgr5t6.png?1" group-title="Entertainment",ANJAN
 https://livetv-channels.b-cdn.net/8034/chunklist0.m3u8
+#EXTINF:-1 tvg-name="ABZY DHAKAD" tvg-logo="https://i.imgur.com/ywQGfGT.png?1" group-title="Entertainment",ABZY DHAKAD
+https://livetv-channels.b-cdn.net/8030/chunklist0.m3u8
+#EXTINF:-1 tvg-name="ABZY COOL" tvg-logo="https://i.imgur.com/vXCOgUV.png?1" group-title="Entertainment",ABZY COOL
+https://livetv-channels.b-cdn.net/8029/chunklist0.m3u8
+#EXTINF:-1 tvg-name="DD NATIONAL" tvg-logo="https://i.imgur.com/gPgaUDk.png?1" group-title="Entertainment",DD NATIONAL
+https://livetv-channels.b-cdn.net/8000/chunklist0.m3u8
 #EXTINF:-1 tvg-name="Sony PIX HD" tvg-logo="https://i.imgur.com/hyMRArK.jpg" group-title="Entertainment",SONY PIX HD
 https://dai.google.com/linear/hls/event/x7rXWd2ERZ2tvyQWPmO1HA/master.m3u8
 #EXTINF:-1 tvg-name="Sony BBC Earth HD" tvg-logo="https://i.imgur.com/KhtEan8.png" group-title="Entertainment",SONY BBC EARTH HD
@@ -103,6 +117,8 @@ https://livetv-channels.b-cdn.net/8016/chunklist0.m3u8
 https://livetv-channels.b-cdn.net/8023/chunklist0.m3u8
 #EXTINF:-1 tvg-name="NDTV Profit" tvg-logo="https://www.ndtv.com/business/content/images/profit_logo2017.png" group-title="News",NDTV Profit
 https://ndtv.pc.cdn.bitgravity.com/ndtv/live/amlst:ndtv_profit_,48,128,256,382,512,.smil/chunklist_b512000.m3u8
+#EXTINF:-1 tvg-name="PEACE OF MIND" tvg-logo="https://i.imgur.com/oi0BPqT.png?1" group-title="Devotional",PEACE OF MIND
+https://livetv-channels.b-cdn.net/8046/chunklist0.m3u8
 #EXTINF:-1 tvg-name="AASTHA" tvg-logo="https://i.imgur.com/rk4EwEx.png?" group-title="Devotional",AASTHA
 https://livetv-channels.b-cdn.net/8086/chunklist0.m3u8
 #EXTINF:-1 tvg-id="IshwarBhaktiTV.in" tvg-logo="https://i.imgur.com/tsPPU1Y.png" group-title="Devotional",Ishwar Bhakti TV 
@@ -127,10 +143,14 @@ https://livetv-channels.b-cdn.net/8021/chunklist0.m3u8
 https://mhoneshaddha.com/hls/stream.m3u8
 #EXTINF:-1 tvg-id="SatsangTV.in" tvg-logo="https://i.imgur.com/jnsaMrJ.png" group-title="Devotional",Satsang TV 
 https://d2vfwvjxwtwq1t.cloudfront.net/out/v1/6b24239d5517495b986e7705490c6e65/index.m3u8
+#EXTINF:-1 tvg-id="PTC SIMRAN" tvg-logo="https://i.imgur.com/XF3hgQW.png?1" group-title="Devotional",PTC SIMRAN
+https://livetv-channels.b-cdn.net/8015/chunklist0.m3u8
 #EXTINF:-1 tvg-id="BalleBalle.in" tvg-logo="https://i.imgur.com/oxkkWH5.png" group-title="Entertainment",Balle Balle 
 https://mcncdndigital.com/balleballetv/index.m3u8
 #EXTINF:-1 tvg-id="BoogleBollywood.in" tvg-logo="https://i.imgur.com/gaKzWdo.png" group-title="Entertainment",Boogle Bollywood 
 http://live.agmediachandigarh.com/booglebollywood/774e3ea9f3fa9bcdac47f445b83b6653.sdp/index.m3u8
+#EXTINF:-1 tvg-id="M TUNES" tvg-logo="https://i.imgur.com/2AlWD1c.png?1" group-title="Entertainment",M TUNES
+https://livetv-channels.b-cdn.net/8009/chunklist0.m3u8
 #EXTINF:-1 tvg-id="DesiChannel.in" tvg-logo="https://i.ibb.co/GkNXcLX/logo.png" group-title="Entertainment",Desi Channel 
 https://live.wmncdn.net/desichannel/7e2dd0aed46b70a5c77f4affdb702e4b.sdp/playlist.m3u8
 #EXTINF:-1 tvg-id="NickHDPlus.in" tvg-logo="https://i.imgur.com/nJPbTet.png" group-title="Kids",Nick HD+ 
