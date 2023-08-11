@@ -83,6 +83,8 @@ https://ndtv.pc.cdn.bitgravity.com/ndtv/live/amlst:ndtv_profit_,48,128,256,382,5
 https://livetv-channels.b-cdn.net/8086/chunklist0.m3u8
 #EXTINF:-1 tvg-id="IshwarBhaktiTV.in" tvg-logo="https://i.imgur.com/tsPPU1Y.png" group-title="Devotional",Ishwar Bhakti TV 
 https://6n3yow8pl9ok-hls-live.5centscdn.com/ishwartvlive/tv.stream/playlist.m3u8
+#EXTINF:-1 tvg-id="SHUBH" tvg-log="https://i.imgur.com/LtIWpHp.png" group-title=Devotional",SHUBH
+https://livetv-channels.b-cdn.net/8078/chunklist0.m3u8
 #EXTINF:-1 tvg-id="MHOneShraddha.in" tvg-logo="https://i.imgur.com/Lrm8qTO.png" group-title="Devotional",MH One Shraddha 
 https://mhoneshaddha.com/hls/stream.m3u8
 #EXTINF:-1 tvg-id="SatsangTV.in" tvg-logo="https://i.imgur.com/jnsaMrJ.png" group-title="Devotional",Satsang TV 
@@ -105,35 +107,35 @@ https://streaming.ptcplay.com/PTCNEWSINONE/smil:Live.smil/playlist.m3u8
 https://streaming.ptcplay.com/ptcPunjabiINOne/smil:Live.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="PTCPunjabiGold.in" tvg-logo="https://i.imgur.com/g88pV3L.png" group-title="Punjabi",PTC Punjabi Gold 
 https://streaming.ptcplay.com/ptcpunjabiGoldINOne/smil:Live.smil/playlist.m3u8
-#EXTINF:-1 ,SET HD 
+#EXTINF:-1 tvg-name="Sony Hd" tvg-logo="https://d3fxehhzqt25no.cloudfront.net/images/SET-HD-Logo.png" group-title="Entertainment",Sony Hd 
 https://dai.google.com/linear/hls/event/dBdwOiGaQvy0TA1zOsjV6w/master.m3u8
-#EXTINF:-1 ,Sony SAB HD
+#EXTINF:-1 tvg-name="Sony Sab" tvg-logo="https://origin-staticv2.sonyliv.com/masthead_logo/4867316278001.png" group-title="Entertainment",Sony Sab
 https://dai.google.com/linear/hls/event/CrTivkDESWqwvUj3zFEYEA/master.m3u8
-#EXTINF:-1 ,Sony PAL
+#EXTINF:-1 tvg-name="Sony pal" tvg-logo="https://origin-staticv2.sonyliv.com/masthead_logo/4867313347001.png" group-title="Entertainment",Sony pal
 https://dai.google.com/linear/hls/event/dhPrGRwDRvuMQtmlzppzQQ/master.m3u8
-#EXTINF:-1 ,Sony YAY
+#EXTINF:-1 tvg-name="Sony Yay" tvg-logo="https://i.imgur.com/AfAhgZA.jpg" group-title="Entertainment",Sony Yay
 https://dai.google.com/linear/hls/event/GPY7RqOrSkmKJ8z1GbVNhg/master.m3u8
-#EXTINF:-1 ,Sony Marathi 
+#EXTINF:-1 tvg-id="Sony Marathi" tvg-log="https://i.imgur.com/8Fj5s2Z.jpg" group-title="Entertainment",SONY MARATHI 
 https://dai.google.com/linear/hls/event/I2phC6tgTDuJngxw9gJgPw/master.m3u8
-#EXTINF:-1 ,Sony AATH
+#EXTINF:-1 tvg-id="Sony AATH" tvg-logo="https://i.imgur.com/uBBldvK.jpg" group-title="Entertainment", SONY AATH
 https://dai.google.com/linear/hls/event/j-YEIDwORxubtP_967VcZg/master.m3u8
-#EXTINF:-1 ,Sony MAX HD
+#EXTINF:-1 tvg-name="Sony MAX HD" tvg-logo="https://i.imgur.com/rBkGzhl.png" group-title="Entertainment",SONY MAX HD
 https://dai.google.com/linear/hls/event/UcjHNJmCQ1WRlGKlZm73QA/master.m3u8
-#EXTINF:-1 ,Sony MAX
+#EXTINF:-1 tvg-id="Sony MAX" tvg-logo="https://i.imgur.com/gVCSSOI.jpg" group-title="Movies",SONY MAX
 https://dai.google.com/linear/hls/event/Oc1isQAET3WaNPoABfScmg/master.m3u8
-#EXTINF:-1 ,Sony WAH
+#EXTINF:-1 tvg-name="Sony Wah" tvg-logo="https://origin-staticv2.sonyliv.com/masthead_logo/5613700600001.png" group-title="Entertainment",Sony Wah
 https://dai.google.com/linear/hls/event/gX5rCBf6Q7-D5AWY-sovzQ/master.m3u8
-#EXTINF:-1 ,Sony MAX2
+#EXTINF:-1 tvg-name="Sony MAX2" tvg-logo="https://i.imgur.com/lRJNJwX.jpg" group-title="Entertainment",SONY MAX 2
 https://dai.google.com/linear/hls/event/MdQ5Zy-PSraOccXu8jflCg/master.m3u8
-#EXTINF:-1 ,Sony PIX HD
+#EXTINF:-1 tvg-name="Sony PIX HD" tvg-logo="https://i.imgur.com/hyMRArK.jpg" group-title="Entertainment",SONY PIX HD
 https://dai.google.com/linear/hls/event/x7rXWd2ERZ2tvyQWPmO1HA/master.m3u8
-#EXTINF:-1 ,Sony BBC Earth HD
+#EXTINF:-1 tvg-name="Sony BBC Earth HD" tvg-logo="https://i.imgur.com/KhtEan8.png" group-title="Entertainment",SONY BBC EARTH
 https://dai.google.com/linear/hls/event/6bVWYIKGS0CIa-cOpZZJPQ/master.m3u
-#EXTINF:-1 ,NDTV India 
+#EXTINF:-1 tvg-name="NDTV India" tvg-logo="https://i.imgur.com/73ToC22.jpg" group-title="News",NDTV INDIA 
 https://ndtvindiaelemarchana.akamaized.net/hls/live/2003679/ndtvindia/ndtvindiamaster.m3u8?@amarnettv.live
-#EXTINF:-1 ,Sony Kal 
+#EXTINF:-1 tvg-name="Sony Kal" tvg-logo="https://i.imgur.com/KWBERN9.png" group-title="Entertainment",Sony Kal 
 https://90f1f5904d4043d78fa97be33e8304b4.mediatailor.us-east-1.amazonaws.com/v1/master/04fd913bb278d8775298c26fdca9d9841f37601f/Plex_SonyKAL/playlist.m3u8
-#EXTINF:-1 ,Aaj Tak HD
+#EXTINF:-1 tvg-id="AajTak.in" tvg-logo="https://i.imgur.com/RpIdCB3.png" group-title="News",Aaj Tak
 https://aajtakhdlive-amd.akamaized.net/hls/live/2014415/aajtakhd/aajtakhdlive/live_720p/chunks.m3u8
 #EXTINF:-1 tvg-name="Sony Ten 1 Hd" tvg-logo="https://origin-staticv2.sonyliv.com/masthead_logo/SonyTEN1HD_Masthead_Logo.png" group-title="Sports",Sony Ten 1 Hd
 https://pubads.g.doubleclick.net/ssai/event/yeYP86THQ4yl7US8Zx5eug/master.m3u8
