@@ -85,6 +85,20 @@ https://livetv-channels.b-cdn.net/8086/chunklist0.m3u8
 https://6n3yow8pl9ok-hls-live.5centscdn.com/ishwartvlive/tv.stream/playlist.m3u8
 #EXTINF:-1 tvg-id="SHUBH" tvg-log="https://i.imgur.com/LtIWpHp.png" group-title=Devotional",SHUBH
 https://livetv-channels.b-cdn.net/8078/chunklist0.m3u8
+#EXTINF:-1 tvg-name="SADHANA" tvg-logo="https://i.imgur.com/FEtsycZ.png?1" group-title="Devotional",SADHNA
+https://livetv-channels.b-cdn.net/8055/chunklist0.m3u8
+#EXTINF:-1 tvg-name="DHARAM SANDESH" tvg-logo="https://i.imgur.com/P7eWlbf.jpg" group-title="Devotional",DHARAM SANDESH
+https://livetv-channels.b-cdn.net/8049/chunklist0.m3u8
+#EXTINF:-1 tvg-name="SANTVANI" tvg-logo="https://i.imgur.com/0nZKaBo.png" group-title="Devotional",SANTVANI
+https://livetv-channels.b-cdn.net/8048/chunklist0.m3u8
+#EXTINF:-1 tvg-name="JINVANI" tvg-logo="https://i.imgur.com/vs94WqB.jpg" group-title="Devotional",JINVANI
+https://livetv-channels.b-cdn.net/8041/chunklist0.m3u8
+#EXTINF:-1 tvg-name="SATSANG" tvg-logo="https://i.imgur.com/cpUBdXb.png?1" group-title="Devotional",SATSANG
+https://livetv-channels.b-cdn.net/8033/chunklist0.m3u8
+#EXTINF:-1 tvg-name="SANSKAR" tvg-logo="https://i.imgur.com/YXZEING.jpg" group-title="Devotional",SANSKAR
+https://livetv-channels.b-cdn.net/8032/chunklist0.m3u8
+#EXTINF:-1 tvg-name="DARSHAN 24" tvg-logo="https://i.imgur.com/sp7Lvwf.jpg" group-title="Devotional",DARSHAN 24
+https://livetv-channels.b-cdn.net/8021/chunklist0.m3u8
 #EXTINF:-1 tvg-id="MHOneShraddha.in" tvg-logo="https://i.imgur.com/Lrm8qTO.png" group-title="Devotional",MH One Shraddha 
 https://mhoneshaddha.com/hls/stream.m3u8
 #EXTINF:-1 tvg-id="SatsangTV.in" tvg-logo="https://i.imgur.com/jnsaMrJ.png" group-title="Devotional",Satsang TV 
