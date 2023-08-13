@@ -47,16 +47,12 @@ https://livetv-channels.b-cdn.net/8029/chunklist0.m3u8
 https://livetv-channels.b-cdn.net/8000/chunklist0.m3u8
 #EXTINF:-1 tvg-name="Sony PIX HD" tvg-logo="https://i.imgur.com/hyMRArK.jpg" group-title="Entertainment",SONY PIX HD
 https://dai.google.com/linear/hls/event/x7rXWd2ERZ2tvyQWPmO1HA/master.m3u8
-#EXTINF:-1 tvg-name="Sony BBC Earth HD" tvg-logo="https://i.imgur.com/KhtEan8.png" group-title="Entertainment",SONY BBC EARTH HD
-https://dai.google.com/linear/hls/event/6bVWYIKGS0CIa-cOpZZJPQ/master.m3u
 #EXTINF:-1 tvg-id="ComedyCentralIndia.in" tvg-logo="https://i.imgur.com/g0caQa2.png" group-title="Entertainment",Comedy Central India 
 https://prod-sports-north-gm.jiocinema.com/bpk-tv/Comedy_Central_HD_voot_MOB/Fallback/index.m3u8
 #EXTINF:-1 tvg-id="AajTak.in" tvg-logo="https://i.imgur.com/RpIdCB3.png" group-title="News",Aaj Tak 
 https://aajtaklive-amd.akamaized.net/hls/live/2014416/aajtak/aajtaklive/live_404p/chunks.m3u8
 #EXTINF:-1 tvg-name="Abp News" tvg-logo="https://content.vidgyor.com/live/abp_hindi.jpg" group-title="News",Abp News
 https://abplivetv.akamaized.net/hls/live/2043010/hindi/master.m3u8
-#EXTINF:-1 tvg-id="AmarUjala.in" tvg-logo="https://i.imgur.com/ndQ8LZp.png" group-title="News",Amar Ujala 
-https://ythls.onrender.com/channel/UCP_wvXToU5ohFLbTAkatvsw.m3u8
 #EXTINF:-1 tvg-name="NDTV India" tvg-logo="https://i.imgur.com/73ToC22.jpg" group-title="News",NDTV INDIA
 https://ndtvindiaelemarchana.akamaized.net/hls/live/2003679/ndtvindia/ndtvindiamaster.m3u8?@amarnettv.live
 #EXTINF:-1 tvg-id="IndiaNews.in" tvg-logo="https://i.imgur.com/l54AGtz.png" group-title="News",India News 
@@ -141,8 +137,6 @@ https://livetv-channels.b-cdn.net/8032/chunklist0.m3u8
 https://livetv-channels.b-cdn.net/8021/chunklist0.m3u8
 #EXTINF:-1 tvg-id="MHOneShraddha.in" tvg-logo="https://i.imgur.com/Lrm8qTO.png" group-title="Devotional",MH One Shraddha 
 https://mhoneshaddha.com/hls/stream.m3u8
-#EXTINF:-1 tvg-id="SatsangTV.in" tvg-logo="https://i.imgur.com/jnsaMrJ.png" group-title="Devotional",Satsang TV 
-https://d2vfwvjxwtwq1t.cloudfront.net/out/v1/6b24239d5517495b986e7705490c6e65/index.m3u8
 #EXTINF:-1 tvg-id="PTC SIMRAN" tvg-logo="https://i.imgur.com/XF3hgQW.png?1" group-title="Devotional",PTC SIMRAN
 https://livetv-channels.b-cdn.net/8015/chunklist0.m3u8
 #EXTINF:-1 tvg-id="BalleBalle.in" tvg-logo="https://i.imgur.com/oxkkWH5.png" group-title="Entertainment",Balle Balle 
