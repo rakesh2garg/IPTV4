@@ -59,8 +59,6 @@ https://ndtvindiaelemarchana.akamaized.net/hls/live/2003679/ndtvindia/ndtvindiam
 https://livetv.newsx.com/itv/itvnetwork5/playlist.m3u8
 #EXTINF:-1 tvg-id="IndiaTV.in" tvg-logo="https://i.imgur.com/ztn2IR8.png" group-title="News",India TV 
 https://ythls.onrender.com/channel/UCttspZesZIDEwwpVIgoZtWQ.m3u8
-#EXTINF:-1 tvg-id="ZeePunjabHaryanaHimachal.in" tvg-logo="https://i.imgur.com/wnALPbu.png" group-title="News",Zee Punjab Haryana Himachal 
-https://ythls.onrender.com/channel/UCmhe0p2-m_KURZYQNchK-QQ.m3u8
 #EXTINF:-1 tvg-id="Bharat24.in" tvg-logo="https://i.imgur.com/Jx1OX9N.png" group-title="News",Bharat 24 
 https://ythls.onrender.com/channel/UCCQmi1Bd-_tHRm6M2uPlGUA.m3u8
 #EXTINF:-1 tvg-id="BharatSamacharTV.in" tvg-logo="https://i.imgur.com/x5f8E3K.png" group-title="News",Bharat Samachar TV 
