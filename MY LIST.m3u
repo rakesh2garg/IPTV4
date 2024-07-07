@@ -3,13 +3,13 @@
 http://103.72.179.30:1935/GECHindi/SONY.stream_720p/Playlist.m3u8
 #EXTINF:-1 tvg-name="Sony Hd" tvg-logo="https://d3fxehhzqt25no.cloudfront.net/images/SET-HD-Logo.png" group-title="Entertainment",Sony Hd
 https://dai.google.com/linear/hls/event/dBdwOiGaQvy0TA1zOsjV6w/master.m3u8
-#EXTINF:-1 tvg-name="StarBharat HD" tvg-logo="https://imgur.com/a/IHFLhR5.png" group-title="entertainment",Star Bharat HD
+#EXTINF:-1 tvg-name="StarBharat HD" tvg-logo="https://i.imgur.com/lOWUjx7.png?1" group-title="entertainment",Star Bharat HD
 http://103.120.172.74:5200
-#EXTINF:-1 tvg-id="Colors.in" tvg-logo="https://i.imgur.com/M8uCJ0D.png" group-title="Entertainment",Colors HD ,Colors HD
+#EXTINF:-1 tvg-id="Colors.in" tvg-logo="https://i.imgur.com/M8uCJ0D.png" group-title="Entertainment",Colors HD
 http://103.120.172.74:1070
 #EXTINF:-1 tvg-id="Colors.in" tvg-logo="https://i.imgur.com/M8uCJ0D.png" group-title="Entertainment",Colors HD 
 https://prod-sports-north-gm.jiocinema.com/bpk-tv/Colors_HD_voot_MOB/Fallback/index.m3u8
-#EXTINF:-1 tvg-name="DD National" tvg-logo="https://imgur.com/a/EJ4l1lXDD.png" group-title="Entertainment" DD National
+#EXTINF:-1 tvg-name="DD National" tvg-logo="https://imgur.com/a/EJ4l1lXDD" group-title="Entertainment" DD National
 https://d75dqofg5kmfk.cloudfront.net/bpk-tv/Ddnational/default/index.m3u8
 #EXTINF:-1 tvg-name="DD National" tvg-logo="https://imgur.com/a/EJ4l1lXDD.png" group-title="Entertainment" DD Nationalgroup-title="Doordarshan",DD National
 https://d1g8wgjurz8via.cloudfront.net/bpk-tv/Ddnational/default/ddnational-audio_208482_und=208000-video=2137600.m3u8
