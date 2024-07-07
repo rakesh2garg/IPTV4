@@ -23,9 +23,9 @@ https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26
 https://pubads.g.doubleclick.net/ssai/event/JCAm25qkRXiKcK1AJMlvKQ/master.m3u8
 #EXTINF:-1 tvg-name=9X Jalwa" tvg-logo="https://i.imgur.com/JwYSnhg.png" group-title="Entertainment", 9X Jalwa
 https://d1g8wgjurz8via.cloudfront.net/bpk-tv/9Xjalwa/default/9XJalwa-audio_208482_und=208000-video=2137600.m3u8
-#EXTINF:-1 ,Shemaroo Bollywood
+#EXTINF:-1 tvg-name="Shemaroo Bollywood" tvg-logo="https://i.imgur.com/TcCyQCp.png" group-title="Entertainment", Shamaroo Bollywood
 https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg00864-shemarooenterta-shemabollywood-ono/playlist.m3u8
-#EXTINF:-1 ,Shemaroo Filmigaane
+#EXTINF:-1 tvg-name="Shemaroo Filmigaane" tvg-logo="https://i.imgur.com/lKvuUxk.png" group-title="Entertainment", Sahmaroo Filmi Gaane
 https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/shemaroo-filmigaane/master.m3u8
 #EXTINF:-1 tvg-name="Sony MAX2" tvg-logo="https://i.imgur.com/lRJNJwX.jpg" group-title="Entertainment",SONY MAX 2
 https://dai.google.com/linear/hls/event/MdQ5Zy-PSraOccXu8jflCg/master.m3u8
